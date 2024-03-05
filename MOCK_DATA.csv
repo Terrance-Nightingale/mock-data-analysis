@@ -1,0 +1,1001 @@
+id,state,medical_procedure,cost,gender
+1,Missouri,"Release Right Thorax Bursa and Ligament, Perc Approach",88478,Female
+2,California,"Drainage of Right Femoral Region, Percutaneous Approach",44146,Female
+3,Alabama,"Excision of Face Artery, Open Approach, Diagnostic",33574,Genderqueer
+4,California,"Supplement R Fem Art with Autol Sub, Perc Approach",118963,Male
+5,Tennessee,"Excision of Epiglottis, Via Natural or Artificial Opening",47201,Female
+6,Texas,"Revision of Monitor Dev in Up Intest Tract, Open Approach",97743,Male
+7,Missouri,"Fragmentation in Left Lower Lobe Bronchus, Perc Approach",50677,Male
+8,Texas,"Fragmentation in Left Kidney Pelvis, Open Approach",,Male
+9,California,"Revision of Monitor Dev in Pancreas, Perc Endo Approach",11179,Female
+10,Virginia,"Repair Right Tympanic Membrane, Open Approach",43733,Female
+11,Illinois,"Resection of R Foot Bursa/Lig, Perc Endo Approach",123248,Female
+12,Indiana,"Division of Olfactory Nerve, Perc Endo Approach",81235,Female
+13,California,"Removal of Synth Sub from Mouth/Throat, Perc Approach",46107,Male
+14,Kansas,Muscle Perform Assess Musculosk Up Back/UE w Assist Equip,70981,Male
+15,California,"Restrict of R Axilla Vein with Intralum Dev, Perc Approach",134938,Bigender
+16,New York,"Extirpation of Matter from Left Eye, External Approach",65951,Male
+17,Arizona,"Revision of Ext Fix in R Humeral Head, Perc Approach",31513,Male
+18,Minnesota,"Removal of Nonaut Sub from R Up Femur, Perc Endo Approach",79368,Female
+19,Iowa,"Transfer Left Abdomen Muscle with Subcu, Open Approach",45492,Female
+20,Colorado,,26353,
+21,Arizona,"Extraction of Left Hand Bursa and Ligament, Perc Approach",10562,Female
+22,New York,"Destruction of Hepatic Artery, Percutaneous Approach",50551,Female
+23,Louisiana,"Removal of Spacer from L Temporomandib Jt, Perc Approach",31127,Male
+24,Ohio,"Drain of R Hip Bursa/Lig with Drain Dev, Perc Endo Approach",34708,Male
+25,Illinois,"Removal of Ext Fix from L Metatarsal, Extern Approach",41925,Female
+26,Texas,"Monitoring of GI Vasc Perfus using ICG dye, Extern Approach",21492,Female
+27,New Jersey,"Insert of Infusion Dev into Tracheobronc Tree, Via Opening",149277,Female
+28,Oklahoma,"Fusion of R Toe Phalanx Jt with Nonaut Sub, Open Approach",57209,Male
+29,Massachusetts,"Remove Infusion Dev from L Metatarsotars Jt, Extern",31066,Female
+30,Colorado,"Occlusion of L Uter A with Extralum Dev, Perc Endo Approach",80794,Female
+31,Nevada,"Release Left Thorax Tendon, Open Approach",100106,Male
+32,Massachusetts,"Restriction of Lower Artery with Extralum Dev, Perc Approach",91633,Male
+33,New Jersey,"Replace of Thor Aorta Asc with Synth Sub, Perc Endo Approach",79749,Genderqueer
+34,Virginia,"Release Right Lower Lung Lobe, Percutaneous Approach",130889,Male
+35,California,,91927,
+36,Tennessee,"Drainage of Right Upper Extremity, Open Approach, Diagnostic",14449,Bigender
+37,Texas,"Release Right Renal Vein, Percutaneous Endoscopic Approach",88435,Female
+38,Georgia,"Bypass 1 Cor Art from Abd Art with Autol Art, Open Approach",74529,Male
+39,Florida,"Replacement of Bi Breast with Autol Sub, Open Approach",14005,Female
+40,Florida,"Extirpation of Matter from L Int Jugular Vein, Open Approach",54717,Male
+41,Utah,"Fusion C-thor Jt w Autol Sub, Post Appr A Col, Open",59062,Non-binary
+42,Florida,"Excision of Left Thorax Muscle, Perc Endo Approach",17595,Male
+43,Hawaii,"Removal of Infusion Device from Bladder, Open Approach",12119,Female
+44,Virginia,"Revision of Nonaut Sub in Peritoneum, Open Approach",94001,Female
+45,Texas,"Supplement L Wrist Jt with Synth Sub, Perc Endo Approach",91326,
+46,Maine,"Destruction of R Abd Bursa/Lig, Open Approach",30746,Non-binary
+47,Pennsylvania,"Destruction of R Knee Bursa/Lig, Perc Endo Approach",42142,Female
+48,Wisconsin,Hyperthermia of Pituitary Gland,110898,Genderfluid
+49,New York,Planar Nuclear Medicine Imaging of KUB using Technetium 99m,129842,Female
+50,California,"Removal of Spacer from Left Hip Joint, Perc Endo Approach",102793,Female
+51,Alaska,"Bypass R Int Iliac Art to L Ext Ilia w Autol Art, Perc Endo",23101,Female
+52,Ohio,Computerized Tomography (CT Scan) of Pelvis,70654,Female
+53,District of Columbia,"Insertion of Int Fix into R Finger Phalanx, Perc Approach",98400,Male
+54,Texas,"Drainage of Bilateral Fallopian Tubes, Perc Endo Approach",58719,Male
+55,Pennsylvania,"Fusion of Left Carpal Joint with Nonaut Sub, Perc Approach",20252,Male
+56,Louisiana,"Transplantation of Thymus, Syngeneic, Open Approach",38941,
+57,Georgia,"Map Pons, Percutaneous Endoscopic Approach",71938,
+58,Missouri,"Supplement R Ext Iliac Vein with Nonaut Sub, Open Approach",41748,Male
+59,Florida,"Electromagnetic Therapy, Central Nervous, Multiple",69292,
+60,Massachusetts,"Supplement R Abd Muscle with Nonaut Sub, Perc Endo Approach",,Female
+61,Florida,"Drainage of Right Upper Leg Tendon, Perc Approach, Diagn",99039,Female
+62,Nevada,"Bypass L Com Iliac Art to B Ext Ilia w Autol Art, Perc Endo",58302,Male
+63,Texas,,26764,
+64,New Jersey,Exercise Treatment of Integu Body using Oth Equip,56393,Male
+65,Virginia,"Excision of Right Finger Phalangeal Joint, Perc Approach",65386,Female
+66,Florida,"Resection of Middle Esophagus, Via Opening",53342,Female
+67,Texas,"Bypass L Com Iliac Vein to Low Vein w Nonaut Sub, Perc Endo",67797,Male
+68,Louisiana,"Repair Right Ethmoid Sinus, Open Approach",77942,Male
+69,Washington,"Release Mitral Valve, Open Approach",18184,Non-binary
+70,Missouri,"Release Right Metatarsal-Phalangeal Joint, Perc Approach",70868,Female
+71,Florida,"Supplement R Thorax Bursa/Lig w Nonaut Sub, Perc Endo",57663,Male
+72,Ohio,"Supplement R Retinal Vessel with Synth Sub, Open Approach",27777,Female
+73,District of Columbia,"Insert of Facet Stabl Dev into Thor Jt, Perc Endo Approach",115873,Male
+74,Indiana,"Repair Right Upper Extremity, Open Approach",80350,Female
+75,Minnesota,"Monitoring of Respiratory Capacity, Via Opening",48245,Female
+76,West Virginia,"Dilate L Verteb Art, Bifurc, w 3 Intralum Dev, Open",34484,Male
+77,Oklahoma,"Revision of Infusion Device in Chest Wall, External Approach",63869,Male
+78,Oklahoma,"Supplement Left Femoral Shaft with Autol Sub, Open Approach",99874,Female
+79,Wisconsin,"Dilation of Cystic Duct, Endo",73798,Female
+80,Texas,"Drainage of Left Main Bronchus, Via Opening",38469,Male
+81,Pennsylvania,"Supplement Bladder with Nonaut Sub, Perc Endo Approach",31985,Male
+82,Texas,Ultrasonography of Right Ovary,66564,Female
+83,Virginia,"Lower Arteries, Excision",75200,Agender
+84,Florida,"Bypass Portal Vein to L Renal Vein w Autol Vn, Perc Endo",104422,Male
+85,District of Columbia,"Excision of Right Knee Region, Percutaneous Approach, Diagn",19923,Male
+86,Washington,"Restrict of Ileocecal Valve with Extralum Dev, Open Approach",135574,Male
+87,New York,"Destruction of Lumbar Vertebra, Percutaneous Approach",142513,Female
+88,Missouri,"Alteration of L Low Extrem with Synth Sub, Open Approach",76214,Female
+89,Indiana,"Revision of Nonaut Sub in R Radius, Extern Approach",13383,Male
+90,Indiana,"Revise of Infusion Dev in Sacrococcygeal Jt, Extern Approach",52464,Female
+91,Missouri,"Release Sacral Sympathetic Nerve, Perc Endo Approach",45057,Female
+92,New York,"Destruction of Right Lower Lobe Bronchus, Endo",67634,Female
+93,Nevada,"Supplement R Knee Jt, Femoral with Liner, Open Approach",16487,Male
+94,Texas,"Insertion of Int Fix into L Clavicle, Perc Approach",91379,Female
+95,Georgia,"Removal of Drainage Device from Upper Tendon, Perc Approach",6872,Male
+96,Tennessee,"Extirpation of Matter from L Glenoid Cav, Open Approach",22665,Female
+97,Michigan,"Repair Right Upper Arm Tendon, Percutaneous Approach",104259,Male
+98,Nevada,"Restrict R Ant Tib Art w Intralum Dev, Perc Endo",111823,Male
+99,California,"Revision of Monitoring Device in Spinal Cord, Perc Approach",88003,Non-binary
+100,California,"Excision of Left Buttock, Open Approach, Diagnostic",147872,Female
+101,West Virginia,"Supplement Azygos Vein with Nonaut Sub, Perc Approach",,Male
+102,New York,"Revision of Infusion Device in R Elbow Jt, Perc Approach",108539,Male
+103,Virginia,"Dilate R Ext Iliac Art, Bifurc, w Drug-elut Intra, Perc Endo",148801,Male
+104,Illinois,"Extirpate of Matter from R Thumb Phalanx, Perc Endo Approach",115702,Male
+105,Texas,"Revision of Spacer in Right Shoulder Joint, Open Approach",30650,Male
+106,Idaho,"Insertion of Limb Length Dev into L Radius, Open Approach",65887,Female
+107,Alaska,"Repair Right Femoral Region, External Approach",71524,Female
+108,Georgia,"Dilate L Com Iliac Art, Bifurc, w 4 Drug-elut, Perc",94758,Female
+109,Indiana,"Excision of L Thorax Bursa/Lig, Perc Endo Approach",25182,Female
+110,Washington,"Excision of Left Peroneal Artery, Perc Endo Approach",40063,Female
+111,Florida,"Excision of Right Ethmoid Sinus, Perc Endo Approach",9320,Male
+112,Florida,"Dilation of R Peroneal Art with 4 Drug-elut, Perc Approach",37301,Male
+113,South Carolina,"CT Scan Bi Salivary Gland w H Osm Contrast, Unenh, Enhance",,Male
+114,North Carolina,HDR Brachytherapy of Salivary Gland using Palladium 103,96220,Female
+115,Utah,"Alteration of Left Lower Eyelid, Percutaneous Approach",28888,Male
+116,Illinois,"Introduction of Serum/Tox/Vaccine into Subcu, Perc Approach",119970,Male
+117,California,"Insertion of Intralum Dev into L Temporal Art, Perc Approach",149714,Female
+118,Kentucky,"Supplement Cerebral Meninges with Autol Sub, Perc Approach",81293,Male
+119,New Jersey,"Dilation of Up Esophag with Intralum Dev, Perc Endo Approach",50618,Male
+120,Pennsylvania,"Fusion of L Elbow Jt with Nonaut Sub, Perc Endo Approach",49697,Male
+121,Oregon,"Excision of Left Orbit, Percutaneous Approach, Diagnostic",27790,Bigender
+122,Virginia,"Supplement Splenic Artery with Nonaut Sub, Perc Approach",31683,Female
+123,Mississippi,"Destruction of Sigmoid Colon, Via Opening",94636,Male
+124,Massachusetts,"Revision of Infusion Dev in L Ankle Jt, Perc Endo Approach",39525,Female
+125,Iowa,"Bypass R Subclav Art to L Pulm Art w Autol Vn, Open",53218,Female
+126,Ohio,"Bypass Periton Cav to R Pleural Cav w Synth Sub, Perc Endo",29846,Male
+127,California,"Extraction of Right Lens, Percutaneous Approach",107736,Female
+128,Texas,"Supplement Upper Vein with Autol Sub, Perc Endo Approach",87877,Male
+129,California,"Bypass L Hypogast Vein to Low Vein w Autol Vn, Perc Endo",134104,Male
+130,California,"Release Right Scapula, Percutaneous Approach",34673,Male
+131,Indiana,"Bypass L Pulm Art from Innom Art w Synth Sub, Open",50960,Male
+132,Iowa,"Replace L Up Arm Skin w Synth Sub, Full Thick, Extern",28483,Male
+133,Texas,"Removal of Nonaut Sub from L Ulna, Open Approach",82066,Female
+134,Iowa,"Dilate L Axilla Art, Bifurc, w Intralum Dev, Open",67940,Male
+135,Florida,"Reposition Left Knee Joint with Ext Fix, Perc Endo Approach",67539,Non-binary
+136,California,"Drainage of Right Sacroiliac Joint, Perc Approach, Diagn",92710,Male
+137,North Carolina,"Revision of Synth Sub in R Metatarsophal Jt, Extern Approach",,Female
+138,California,"Removal of Spacer from R Temporomandib Jt, Open Approach",41089,Male
+139,Georgia,"Change Other Device in Salivary Gland, External Approach",54291,Female
+140,California,"Excision of Right Cornea, External Approach",69084,Female
+141,Nevada,"Drainage of Right Seminal Vesicle, Perc Endo Approach",25102,Male
+142,New York,"Extraction of L Up Leg Subcu/Fascia, Open Approach",67010,Female
+143,Colorado,"Supplement Right Knee Joint with Nonaut Sub, Open Approach",14103,Female
+144,Louisiana,"Bypass R Ureter to R Ureter w Synth Sub, Perc Endo",17388,Male
+145,New York,"Supplement R Int Jugular Vein with Nonaut Sub, Open Approach",52516,Female
+146,Nevada,"Dilation of Upper Vein, Percutaneous Endoscopic Approach",92884,Female
+147,Alabama,Static Orthosis Device Fitting using Orthosis,56995,
+148,Texas,"Fusion T-lum Jt w Synth Sub, Post Appr A Col, Perc",72772,Female
+149,New Mexico,"Occlusion of Thoracic Duct, Open Approach",82618,Male
+150,Wisconsin,"Restriction of Left Lacrimal Duct, Open Approach",13243,Male
+151,California,"Fusion Lum Jt w Intbd Fus Dev, Post Appr A Col, Perc",,Male
+152,Mississippi,"Drainage of Bilateral Seminal Vesicles, Perc Approach, Diagn",93326,
+153,Minnesota,"Revision of Synth Sub in Sacrococcygeal Jt, Open Approach",142436,
+154,New Jersey,"Extirpation of Matter from Papillary Muscle, Perc Approach",97163,Female
+155,Mississippi,Magnetic Resonance Imaging (MRI) of Parathyroid Glands,74943,Female
+156,Texas,"Drainage of Left Parotid Gland, Percutaneous Approach, Diagn",46450,Female
+157,Alabama,"Excision of Right Internal Carotid Artery, Open Approach",84671,Female
+158,Texas,"Excision of Superior Vena Cava, Percutaneous Approach",62541,Male
+159,New York,"Bypass Innom Art to R Up Leg Art w Autol Art, Open",81283,Female
+160,Pennsylvania,"Reposition Left Thumb Phalanx with Ext Fix, Open Approach",87845,Male
+161,Wisconsin,"Drainage of L Up Extrem Lymph, Perc Endo Approach, Diagn",51428,Female
+162,Michigan,"Dilation of Intracran Art with 3 Intralum Dev, Perc Approach",85225,Female
+163,New York,"Excision of Ileocecal Valve, Via Opening",59653,Male
+164,California,"Bypass Bi Vas Deferens to L Vas Def w Nonaut Sub, Open",25902,Male
+165,Pennsylvania,"Bypass Left Axillary Artery to L Low Leg Art, Open Approach",25864,Female
+166,Oklahoma,Fluency Treatment using Other Equipment,90832,Male
+167,New Jersey,"Drainage of Thoracic Duct, Percutaneous Approach",45447,Polygender
+168,Tennessee,Change Pressure Dressing on Right Upper Extremity,61350,
+169,Montana,"Insertion of Intraluminal Device into Jejunum, Open Approach",86302,Male
+170,Connecticut,"Inspection of Face, Percutaneous Endoscopic Approach",52551,Male
+171,Illinois,"Release Left Trunk Bursa and Ligament, External Approach",130095,Male
+172,New York,"Destruction of T-lum Jt, Perc Endo Approach",,Polygender
+173,California,"Restrict R Int Jugular Vein w Intralum Dev, Open",68948,Bigender
+174,Missouri,"Bypass R Hand Vein to Up Vein w Autol Vn, Perc Endo",65509,Female
+175,Ohio,"Dilate of R Int Carotid with 3 Drug-elut, Perc Endo Approach",112697,Female
+176,Georgia,"Fusion of Lum Jt, Post Appr P Col, Perc Endo Approach",79550,Male
+177,Kansas,"Bypass Left Atrium to Left Pulmonary Artery, Open Approach",56828,Female
+178,Tennessee,"Transfuse Nonaut Cord Bld Stem Cell in Periph Art, Perc",94661,Non-binary
+179,Illinois,"Insertion of Stim Lead into Up Muscle, Perc Endo Approach",137225,Male
+180,California,"Supplement R Hand Subcu/Fascia w Nonaut Sub, Open",71820,Female
+181,District of Columbia,"Release Right Knee Tendon, Open Approach",74969,Male
+182,Georgia,CT Scan of Cerv Spine using L Osm Contrast,,Male
+183,South Carolina,"Supplement L Subclav Art with Synth Sub, Perc Endo Approach",58741,Male
+184,New York,"Repair Left Ureter, Via Natural or Artificial Opening",,Male
+185,Arizona,"Urinary System, Supplement",73478,Male
+186,Florida,"Replacement of Uvula with Autol Sub, Open Approach",109588,Female
+187,Texas,Caregiver Training in Airway Clearance Tech using Prosthesis,32387,Female
+188,Florida,"Reattachment of R Ankle Bursa/Lig, Perc Endo Approach",93092,Male
+189,Maryland,"Release Right Metacarpocarpal Joint, Perc Endo Approach",87600,Female
+190,Florida,"Resection of Nose, External Approach",26712,Polygender
+191,Arizona,"Detachment at Left Hand, Complete 5th Ray, Open Approach",92883,Female
+192,California,"Revise of Infusion Dev in Vagina & Cul-de-sac, Perc Approach",36876,Non-binary
+193,Hawaii,"Extirpation of Matter from L Peroneal Art, Open Approach",30350,Male
+194,Texas,"Replace of L Occipital Bone with Synth Sub, Open Approach",69704,Female
+195,Wisconsin,"Drainage of Parathyroid Gland, Percutaneous Approach",87356,Male
+196,Illinois,Collection of CSF from Indwell Dev in Nervous Sys,44857,Female
+197,Florida,"Removal of Ext Fix from R Toe Phalanx, Extern Approach",73243,Male
+198,Florida,"Excision of Head and Neck Tendon, Open Approach",65417,Agender
+199,Florida,"Removal of Infusion Device from R Shoulder Jt, Perc Approach",118762,Male
+200,California,"Transfuse Nonaut Red Blood Cells in POC, Circ, Via Opening",71942,
+201,New York,"Supplement Right 5th Toe with Synth Sub, Open Approach",100567,Male
+202,Tennessee,HDR Brachytherapy of Parathyroid Glands w Californium 252,26662,Bigender
+203,Idaho,"Transfer Tongue, Palate, Pharynx Muscle, Open Approach",8065,Male
+204,West Virginia,"Reposition Right Femoral Vein, Open Approach",82446,Male
+205,Florida,"Dilation of Bilateral Fallopian Tubes, Percutaneous Approach",48861,Female
+206,California,,121274,Male
+207,California,"Destruction of Left Upper Leg Skin, Mult, Extern Approach",47480,Female
+208,District of Columbia,"Occlusion of Abd Aorta with Intralum Dev, Perc Approach",25004,Female
+209,Florida,"Excision of Jejunum, Endo, Diagn",30025,Male
+210,Iowa,Plain Radiography of Left Foot,30094,Male
+211,Florida,"Dilation of Right Common Iliac Artery, Percutaneous Approach",92088,Female
+212,Florida,Plaque Radiation of Thorax Lymphatics,85165,Female
+213,Massachusetts,"Dilation of Uterus, Percutaneous Endoscopic Approach",149932,Female
+214,Pennsylvania,"Revision of Int Fix in R Thumb Phalanx, Perc Approach",112349,Male
+215,Illinois,"Division of Left Radius, Percutaneous Approach",38463,Male
+216,District of Columbia,"Occlusion Ileocecal Valve w Extralum Dev, Perc",42384,Female
+217,Nevada,Magnetic Resonance Imaging (MRI) of Prostate,67199,Male
+218,Pennsylvania,"Revision of Int Fix in R Metacarpal, Perc Endo Approach",56533,Female
+219,Maryland,"Excision of Sacral Nerve, Percutaneous Approach, Diagnostic",,Male
+220,Tennessee,"Drainage of Right Lower Extremity, Perc Approach, Diagn",71459,Male
+221,Georgia,Nonspoken Language Treatment using Computer,73205,Female
+222,Louisiana,"Supplement Left Lower Leg with Synth Sub, Perc Endo Approach",19158,Male
+223,Iowa,"Destruction of Right Knee Tendon, Percutaneous Approach",82115,
+224,North Carolina,"Extirpate of Matter from L Mastoid Sinus, Perc Endo Approach",70221,Female
+225,Alabama,"Removal of Autol Sub from Mediastinum, Open Approach",38052,Male
+226,Delaware,"Revision of Ext Fix in R Metatarsotars Jt, Extern Approach",145112,Female
+227,Arkansas,"Release Left Cephalic Vein, Open Approach",45993,Female
+228,South Carolina,"Transfer L Hip Muscle with Skin, Subcu, Perc Endo Approach",98560,Male
+229,Florida,"Bypass Abdominal Aorta to Left Renal Artery, Open Approach",75423,Male
+230,Nebraska,"Restriction of R Up Extrem Lymph, Perc Endo Approach",,Bigender
+231,Indiana,"Replace R Hip Jt, Femoral w Metal, Uncement, Open",67971,Female
+232,District of Columbia,"Supplement Vagina with Nonautologous Tissue Substitute, Endo",68201,Male
+233,Illinois,"Excision of Ascending Colon, Percutaneous Approach",60329,Female
+234,Oklahoma,"Drainage of Left Ankle Region, Perc Endo Approach",15790,Genderfluid
+235,Virginia,"Excision of Ulnar Nerve, Open Approach, Diagnostic",29579,Male
+236,Oregon,"Supplement R Trunk Muscle with Synth Sub, Perc Endo Approach",79512,Polygender
+237,Texas,"Excision of Left Eustachian Tube, Open Approach, Diagnostic",52291,Female
+238,West Virginia,"Bypass R Com Iliac Art to L Int Ilia, Perc Endo Approach",46337,Female
+239,Hawaii,"Excision of R Com Iliac Art, Perc Endo Approach, Diagn",,Male
+240,New York,Plain Radiography of L Subclav Vein using L Osm Contrast,75989,Male
+241,North Carolina,"Remove Feeding Dev from Low Intest Tract, Perc Endo",12385,Polygender
+242,Illinois,"Occlusion of Right Lesser Saphenous Vein, Open Approach",138581,Female
+243,Texas,"Revision of Extralum Dev in Uterus & Cervix, Via Opening",44550,Bigender
+244,Iowa,"Removal of Int Fix from R Fibula, Perc Approach",14543,Female
+245,California,"Removal of Autol Sub from Nose, Extern Approach",97421,Male
+246,Georgia,"Excision of Para-aortic Body, Perc Endo Approach",52482,Male
+247,Pennsylvania,"Bypass Thor Aorta Desc to Carotid w Synth Sub, Open",,Male
+248,California,"Drainage of Right Upper Arm with Drain Dev, Perc Approach",66489,Female
+249,South Carolina,"Removal of Nonaut Sub from Chest Wall, Perc Approach",54472,Male
+250,New York,"Bypass Hemiazygos Vein to Upper Vein, Perc Endo Approach",139246,Male
+251,District of Columbia,"Repair Tibial Nerve, Percutaneous Approach",8196,Female
+252,Alabama,"Revision of Synth Sub in Pelvic Cav, Perc Approach",74434,Male
+253,Illinois,"Reattachment of Left Ovary, Percutaneous Endoscopic Approach",98671,Male
+254,Alabama,"Extirpate matter from R Great Saphenous, Perc Endo",21691,Female
+255,Kentucky,"Insert Contracept Dev in L Low Leg Subcu/Fascia, Perc",62339,Male
+256,North Carolina,"Drainage of Left Fibula, Percutaneous Approach, Diagnostic",109176,Female
+257,Maryland,"Excision of Right Diaphragm, Open Approach, Diagnostic",99580,Female
+258,California,CT Scan of L Hip using Oth Contrast,112137,Male
+259,Florida,Wound Management Treatment of Musculosk Up Back/UE,100841,Male
+260,Tennessee,Computerized Tomography (CT Scan) of Right Elbow,8275,Male
+261,Connecticut,"Repair Right Greater Saphenous Vein, Percutaneous Approach",21313,
+262,Texas,"Excision of Left Lower Arm, Perc Endo Approach, Diagn",,Male
+263,California,"Revision of Synthetic Substitute in R Patella, Perc Approach",84855,Male
+264,Florida,"Revision of Nonaut Sub in L Radius, Extern Approach",106745,Male
+265,Virginia,"Dilation of Left Foot Artery, Bifurc, Perc Endo Approach",23014,Male
+266,California,"Supplement Right Upper Eyelid with Autol Sub, Perc Approach",17281,Agender
+267,Wisconsin,"Inspection of L Finger Phalanx Jt, Perc Endo Approach",40351,Male
+268,Georgia,"Drainage of Right Neck Muscle, Open Approach, Diagnostic",56846,Female
+269,Georgia,"Bypass Ileum to Ileum with Autol Sub, Endo",8926,Female
+270,Michigan,"Drainage of Ileocecal Valve, Open Approach, Diagnostic",111936,Male
+271,Pennsylvania,"Drainage of L Metacarpocarp Jt with Drain Dev, Open Approach",68275,Male
+272,Missouri,Removal of Bandage on Right Hand,67931,Male
+273,Tennessee,"Fusion C-thor Jt w Nonaut Sub, Ant Appr A Col, Perc Endo",10299,Male
+274,Washington,"Resection of Bilateral Fallopian Tubes, Endo",76901,Male
+275,Nevada,"Insertion of Int Fix into L Carpal Jt, Open Approach",22500,Male
+276,Florida,"Excision of R Subclav Art, Perc Endo Approach, Diagn",13605,Male
+277,Pennsylvania,"Alteration of Right Lower Arm with Autol Sub, Perc Approach",56689,Male
+278,Indiana,"Release Lower Esophagus, Open Approach",33782,Male
+279,Texas,"Excision of Right Upper Lobe Bronchus, Open Approach",,Female
+280,California,"Ultrasonography of Superior Mesenteric Artery, Intravascular",44328,Male
+281,New York,"Dilate L Int Mamm Art, Bifurc, w 2 Intralum Dev, Open",45444,Male
+282,North Carolina,"Excision of Right Glenoid Cavity, Perc Approach, Diagn",71047,Male
+283,California,"Revision of Autologous Tissue Substitute in Urethra, Endo",65018,Agender
+284,Illinois,"Fusion 2-6 C Jt w Synth Sub, Post Appr A Col, Open",36415,Male
+285,Florida,"Removal of Stimulator Lead from Upper Muscle, Perc Approach",29141,Male
+286,Georgia,"Bypass Abdominal Aorta to L Renal A, Perc Endo Approach",74377,Male
+287,Oklahoma,"Extraction of Thoracic Sympathetic Nerve, Perc Endo Approach",14198,Female
+288,Massachusetts,"Excision of Right Extraocular Muscle, Open Approach",54009,Male
+289,Florida,"Revision of Radioactive Element in Head, Open Approach",82890,Male
+290,Oregon,"Replacement of Inf Vena Cava with Synth Sub, Open Approach",104488,Male
+291,West Virginia,"Introduce Oth Therap Subst in Periph Vein, Open",,Female
+292,Oregon,Removal of Bandage on Right Foot,127842,Female
+293,Oklahoma,"Dilate R Verteb Art, Bifurc, w 4+ Intralum Dev, Open",74392,Female
+294,Connecticut,"Occlusion of Left Innominate Vein, Percutaneous Approach",26232,Male
+295,Ohio,"Supplement Ventricular Septum with Synth Sub, Open Approach",,Female
+296,Texas,Beam Radiation of Rectum using Electrons,88964,Female
+297,New York,"Release Left Breast, Endo",100844,Bigender
+298,District of Columbia,"Repair Lumbar Nerve, Percutaneous Endoscopic Approach",51246,Female
+299,Georgia,"Reposition Right Carpal Joint, Percutaneous Approach",79205,Female
+300,California,"Bypass Esophagus to Jejunum with Nonaut Sub, Open Approach",11971,Male
+301,Virginia,"Excision of Right Brachial Artery, Perc Endo Approach",85954,Male
+302,Colorado,"Bypass R Foot Vein to Low Vein w Autol Vn, Perc Endo",85612,Female
+303,Minnesota,"Dilate R Verteb Art, Bifurc, w 4 Drug-elut, Open",82609,Male
+304,California,"Drainage of Left Wrist Region with Drain Dev, Open Approach",30314,Non-binary
+305,Ohio,"Drainage of Common Bile Duct, Perc Endo Approach",38197,Female
+306,West Virginia,"Introduce Local Anesth in Periph Nrv, Plexi, Perc",56650,Female
+307,Massachusetts,"Revision of Infusion Device in Prostate/Seminal Ves, Endo",124807,
+308,Colorado,"Release Right Abdomen Muscle, Perc Endo Approach",27478,Female
+309,California,"Repair Left Tympanic Membrane, Perc Endo Approach",100140,Genderfluid
+310,North Carolina,"Anatomical Regions, General, Inspection",59948,
+311,Florida,"Occlusion of Descending Colon, Percutaneous Approach",,Agender
+312,Nebraska,"Removal of Int Fix from L Fibula, Open Approach",50847,Female
+313,Kansas,"Repair Right Wrist Bursa and Ligament, Open Approach",21138,Female
+314,Pennsylvania,"Destruction of Right Metatarsal-Tarsal Joint, Open Approach",59517,Male
+315,California,"Excision of Left Shoulder Joint, Perc Approach, Diagn",109311,Male
+316,Iowa,,17316,Male
+317,Minnesota,"Nuclear Medicine, Skin Subcu Breast, Planar Nucl Med Imag",16093,Male
+318,Florida,"Revision of Intraluminal Device in Pancreas, Open Approach",83036,Male
+319,Alabama,,44791,Agender
+320,Nevada,Fluoroscopy of Left Heart using Low Osmolar Contrast,114058,Genderqueer
+321,Florida,"Removal of Synth Sub from R Metacarpal, Perc Approach",113082,Male
+322,Colorado,,39833,Female
+323,Georgia,"Occlusion R Axilla Art w Intralum Dev, Perc Endo",8866,Female
+324,Oregon,Magnetic Resonance Imaging (MRI) of Fetal Extremities,54241,Male
+325,California,"Gastrointestinal System, Excision",76552,Genderfluid
+326,Colorado,"Dilation of L Brach Art with 2 Drug-elut, Perc Endo Approach",71183,Male
+327,Wisconsin,"Drainage of Lumbar Plexus, Percutaneous Approach",77608,Male
+328,Ohio,"Insertion of Spacer into L Sacroiliac Jt, Perc Approach",15869,Male
+329,Indiana,"Occlusion of Low Esophag with Extralum Dev, Open Approach",94340,Female
+330,Texas,"Drainage of Left Fallopian Tube, Endo",96003,Female
+331,Arizona,"Replace Intracran Vein w Nonaut Sub, Perc Endo",48989,Male
+332,Georgia,"Restrict R Com Iliac Art w Fenestr Dev 1 or 2, Open",12884,Female
+333,California,"Drainage of Mediastinum, Open Approach",80594,Female
+334,California,"Drainage of Right External Iliac Vein, Percutaneous Approach",58485,Female
+335,Texas,"Removal of Synth Sub from L Femur Shaft, Open Approach",98777,Male
+336,Virginia,"Insertion of Intralum Dev into L Axilla Vein, Perc Approach",38136,Female
+337,Texas,"Dilate R Subclav Art w 4+ Intralum Dev, Perc Endo",71420,Male
+338,Florida,"Removal of Int Fix from R Rib, Perc Approach",41216,Female
+339,Kansas,"Bypass Descending Colon to Cutaneous, Endo",9497,Female
+340,California,"Remove Int Fix from L Temporomandib Jt, Perc Endo",112664,Female
+341,California,"Revision of Nonaut Sub in Thor Jt, Extern Approach",91786,Male
+342,New York,"Extirpation of Matter from Right Trunk Tendon, Open Approach",73650,Male
+343,Connecticut,"Excision of Bilateral Seminal Vesicles, Perc Endo Approach",34202,Genderqueer
+344,Indiana,"Supplement Left Clavicle with Synth Sub, Perc Approach",18863,Female
+345,Florida,"Bypass R Com Iliac Art to Celiac Art w Autol Vn, Open",94600,Female
+346,Georgia,"Alteration of Bi Ext Ear with Nonaut Sub, Perc Endo Approach",94589,Genderfluid
+347,North Carolina,MRI of Inf Vena Cava using Oth Contrast,83271,Female
+348,Florida,"Revision of Drain Dev in Salivary Gland, Extern Approach",18309,
+349,Virginia,"Drainage of Superior Mesenteric Artery, Perc Approach",70463,Female
+350,Texas,Nonimag Nucl Med Prob of Brain using Oth Radionuclide,42526,
+351,North Carolina,"Reposition Right Occipital Bone, Perc Endo Approach",114212,Bigender
+352,Virginia,"Repair Left Buttock, Percutaneous Endoscopic Approach",124674,Non-binary
+353,Wisconsin,"Dilate R Post Tib Art, Bifurc, w 4 Drug-elut, Perc Endo",101838,Male
+354,Virginia,"Replacement of Upper Gingiva with Autol Sub, Open Approach",41360,Male
+355,Colorado,"Occlusion of Superior Mesenteric Artery, Perc Endo Approach",47136,Male
+356,Kentucky,"Extirpation of Matter from Nose, Perc Endo Approach",26323,Female
+357,Texas,"Reattachment of Left Hand Tendon, Perc Endo Approach",66361,Male
+358,Florida,"Bursae and Ligaments, Reattachment",107305,Male
+359,Florida,"Removal of Ext Fix from R Ankle Jt, Perc Endo Approach",92235,Female
+360,Georgia,"Supplement Intracran Vein w Nonaut Sub, Perc Endo",79426,Male
+361,New York,"Resection of Left Wrist Bursa and Ligament, Open Approach",80265,Genderfluid
+362,Texas,"Insertion of Spacer into L Tarsal Jt, Perc Endo Approach",19636,Non-binary
+363,Washington,Plain Radiography of Lumbar Arteries using Other Contrast,142079,Female
+364,New York,"Repair Ear, Nose and Sinus in Products of Conception, Endo",145595,Male
+365,Iowa,"Supplement Right Toe Phalanx with Autol Sub, Open Approach",28321,Female
+366,Texas,"Excision of Right Acetabulum, Percutaneous Approach",74832,Female
+367,California,"Revision of Ext Fix in R Finger Phalanx, Perc Endo Approach",116008,Female
+368,District of Columbia,"Dilation of Splenic Art with 3 Intralum Dev, Perc Approach",73249,Female
+369,South Carolina,"Dilate R Com Iliac Art, Bifurc, w 3 Drug-elut, Perc Endo",74980,Male
+370,Georgia,"Reattachment of Chest Skin, External Approach",97322,Female
+371,California,"Insert Limb Length Dev in L Humeral Shaft, Perc Endo",30536,Female
+372,Virginia,"Repair Left Ureter, Open Approach",138988,Female
+373,New York,"Bypass Common Bile Duct to Duodenum, Perc Endo Approach",36589,Female
+374,Delaware,"Insert of Infusion Dev into L Cephalic Vein, Perc Approach",30194,Female
+375,Indiana,"Drainage of Jejunum with Drainage Device, Via Opening",69914,Female
+376,New York,"Insert of Infusion Dev into Celiac Art, Perc Endo Approach",33676,Female
+377,Kentucky,"Remove Nonaut Sub from L Sacroiliac Jt, Perc Endo",98429,Male
+378,California,"Drainage of Right Foot Vein, Perc Endo Approach, Diagn",108218,Male
+379,Texas,"Supplement Lingula Bronchus with Synth Sub, Open Approach",75087,Female
+380,Delaware,"Destruction of Left Temporal Artery, Open Approach",30495,Male
+381,Pennsylvania,"Supplement R Ext Iliac Art with Nonaut Sub, Open Approach",116316,Male
+382,Texas,"Dilate L Ext Carotid, Bifurc, w Drug-elut Intra, Perc Endo",33693,Polygender
+383,California,"Revision of Ext Fix in R Elbow Jt, Open Approach",71819,Male
+384,Alabama,"Transplantation of Pancreas, Allogeneic, Open Approach",,Male
+385,Tennessee,"Drainage of Right Ankle Bursa and Ligament, Perc Approach",38425,Female
+386,New York,"Excision of Right Extraocular Muscle, Percutaneous Approach",60963,Female
+387,Florida,"Occlusion of Left Main Bronchus with Intralum Dev, Endo",68082,Male
+388,California,"Bypass L Ventricle to R Pulm Art w Autol Vn, Open",91011,Male
+389,Connecticut,Planar Nucl Med Imag of R Low Extrem using Technetium 99m,55373,Male
+390,Pennsylvania,"Revision of Synth Sub in L Up Femur, Perc Endo Approach",91941,Female
+391,Minnesota,Beam Radiation of Pelvis Lymphatics using Neutron Capture,106807,Male
+392,Florida,"Extirpation of Matter from Bi Sperm Cord, Open Approach",29960,Female
+393,Missouri,"Bypass Gallbladder to Cyst Duct w Intralum Dev, Perc Endo",44074,Male
+394,Texas,"Revision of Infusion Device in Upper Jaw, External Approach",45744,Female
+395,Texas,"Dilation of Abdominal Aorta with 2 Drug-elut, Perc Approach",90517,Female
+396,Florida,"Drainage of Left Metatarsal-Tarsal Joint, Perc Endo Approach",107222,Female
+397,California,CT Scan of Liver using H Osm Contrast,,Female
+398,Massachusetts,"CT Scan Chest, Abd & Pelvis w L Osm Contrast, Unenh, Enhance",135854,Male
+399,Pennsylvania,"Dilation of R Hand Art with Intralum Dev, Open Approach",102964,Female
+400,California,"Dilation of Jejunum with Intraluminal Device, Open Approach",16312,Female
+401,Ohio,"Repair Left Carotid Body, Percutaneous Endoscopic Approach",115844,Female
+402,Texas,"Dilate R Int Mamm Art, Bifurc, w 3 Intralum Dev, Perc",33735,Polygender
+403,Pennsylvania,"Dilate L Foot Art, Bifurc, w 2 Intralum Dev, Perc Endo",113096,Female
+404,Tennessee,"Dilation of R Fem Art with 3 Drug-elut, Perc Approach",7204,Female
+405,District of Columbia,"Bypass L Hand Vein to Up Vein with Nonaut Sub, Open Approach",95753,Female
+406,Alabama,Computerized Tomography (CT Scan) of Temporal Bones,35278,Male
+407,North Carolina,"Destruction of Large Intestine, Perc Endo Approach",83047,Female
+408,Texas,"Restriction of Cecum with Intraluminal Device, Perc Approach",31390,Female
+409,Minnesota,"Release R Low Leg Subcu/Fascia, Perc Approach",25690,Female
+410,Tennessee,"Bypass R Atrium to L Pulm Art w Synth Sub, Perc Endo",57660,Female
+411,Texas,"Release Ant Neck Subcu/Fascia, Perc Approach",59268,Male
+412,Texas,"Bypass Splenic Vein to Low Vein w Autol Art, Perc Endo",27066,Female
+413,District of Columbia,"Insertion of Infusion Device into Ureter, Open Approach",77965,Male
+414,North Carolina,"Transfer L Low Leg Subcu/Fascia w Skin, Subcu, Open",,Male
+415,Florida,"Fusion T-lum Jt w Nonaut Sub, Post Appr P Col, Perc Endo",43301,Female
+416,Ohio,Beam Radiation of Gallbladder using Photons >10 MeV,,Male
+417,Illinois,"Bypass Bladder to Ileocutan with Synth Sub, Open Approach",29846,Male
+418,Minnesota,"Insertion of Infusion Dev into Pericard Cav, Open Approach",29159,Bigender
+419,Georgia,"Drainage of Left Metacarpophalangeal Joint, Open Approach",83761,Female
+420,Minnesota,"Reattachment of Left Lower Leg Tendon, Open Approach",133429,Female
+421,Texas,"Computerized Tomography (CT Scan) of Chest, Abd & Pelvis",86230,Male
+422,California,"Supplement Soft Palate with Autol Sub, Extern Approach",95733,Female
+423,Illinois,"Destruction of Left Femoral Artery, Percutaneous Approach",101755,Female
+424,Colorado,"Insert of Hybrid Ext Fix into L Femur Shaft, Perc Approach",96182,Female
+425,Florida,"Drainage of Perineum Tendon, Open Approach",11176,Female
+426,Massachusetts,"Reposition Right Sternoclavicular Joint, Perc Endo Approach",90834,
+427,Connecticut,"Extraction of L Great Saphenous, Perc Endo Approach",80140,
+428,Nebraska,"Supplement R Low Leg Subcu/Fascia w Nonaut Sub, Open",81696,Male
+429,Texas,"Destruction of Left Hip Tendon, Open Approach",25929,Male
+430,North Carolina,"Excision of Right Lower Leg Muscle, Percutaneous Approach",24502,Genderqueer
+431,Pennsylvania,"Reposition Right Ovary, Percutaneous Endoscopic Approach",115418,Male
+432,Wisconsin,"Removal of Ext Fix from L Humeral Head, Extern Approach",85393,Female
+433,Illinois,"Resection of Right Lower Lobe Bronchus, Open Approach",71816,Female
+434,Maryland,"Supplement R Ext Jugular Vein with Synth Sub, Open Approach",144948,Female
+435,Texas,"Alteration of R Up Arm with Nonaut Sub, Perc Endo Approach",69013,Female
+436,Minnesota,"Restrict L Colic Art w Intralum Dev, Perc Endo",46738,Female
+437,California,"Removal of Int Fix from L Ankle Jt, Perc Endo Approach",78511,Female
+438,New Jersey,"Reposition Right Lower Femur, Open Approach",94091,Male
+439,South Dakota,"Destruction of Left Hand Artery, Percutaneous Approach",91468,Female
+440,West Virginia,"Supplement Sup Mesent Vein w Synth Sub, Perc Endo",50691,Male
+441,Texas,"Revise of Int Fix in R Metatarsotars Jt, Perc Endo Approach",71618,Female
+442,Nevada,"Bypass L Ext Iliac Art to R Ext Ilia w Autol Vn, Open",109796,Male
+443,District of Columbia,"Ventil, Resp/Circ Assess Circ Up Back/UE w Oth Equip",104107,
+444,Missouri,"Release Right Upper Lung Lobe, Perc Endo Approach",,Female
+445,New York,"Restriction of L Innom Vein with Intralum Dev, Open Approach",29722,Female
+446,Texas,"Destruction of Left Inner Ear, Open Approach",76062,Female
+447,Nevada,"Detachment at Left Foot, Partial 4th Ray, Open Approach",26913,Female
+448,Oklahoma,"Remove Nonaut Sub from L Toe Phalanx Jt, Perc Endo",51203,Genderfluid
+449,Texas,Fluoroscopy of Lumbar Facet Joint(s) using L Osm Contrast,27433,Female
+450,Pennsylvania,"Repair Tricuspid Valve, Percutaneous Endoscopic Approach",51194,Female
+451,Tennessee,"Supplement L Neck Lymph with Nonaut Sub, Open Approach",31762,Male
+452,California,Fluoroscopy of R Up Extrem Vein using Oth Contrast,99087,Female
+453,Missouri,Nonimag Nucl Med Prob of Trunk Lymph using Oth Radionuclide,24251,Female
+454,New Jersey,"Drainage of Left Spermatic Cord, Open Approach, Diagnostic",64261,Female
+455,Florida,"Bypass Cecum to Cecum, Percutaneous Endoscopic Approach",88049,Female
+456,Virginia,"Revision of Synthetic Substitute in L Fibula, Open Approach",70691,Female
+457,Pennsylvania,"Repair Gastric Vein, Percutaneous Endoscopic Approach",97680,Female
+458,Florida,"Introduction of Liquid Brachy into Joint, Perc Approach",69185,Genderqueer
+459,Texas,Beam Radiation of Urethra using Neutrons,84076,Male
+460,Florida,"Repair Accessory Nerve, Open Approach",49971,Male
+461,West Virginia,"Supplement R Low Leg Muscle w Synth Sub, Perc Endo",41288,Male
+462,South Carolina,"Dilate R Fem Art, Bifurc, w 3 Intralum Dev, Open",36904,Agender
+463,Minnesota,"Supplement Lumbar Nerve with Autol Sub, Perc Approach",92087,Male
+464,Ohio,"Destruction of Abd Symp Nrv, Perc Endo Approach",68148,Female
+465,Missouri,"Revision of Nonaut Sub in Cerv Disc, Perc Approach",69344,Male
+466,California,"Revise of Intralum Dev in Hepatobil Duct, Perc Endo Approach",56727,Male
+467,Iowa,MRI of Liver & Spleen using Oth Contrast,88402,Male
+468,Massachusetts,Beam Radiation of Ureter using Neutrons,96602,Female
+469,Arizona,"Destruction of Left Tarsal Joint, Open Approach",82331,Non-binary
+470,Illinois,HDR Brachytherapy of Larynx using Iridium 192,100922,Female
+471,Minnesota,"Revision of Nonaut Sub in L Pelvic Bone, Extern Approach",29207,Male
+472,Texas,"Bypass R Ext Iliac Art to R Ext Ilia w Autol Art, Open",83160,Male
+473,California,"Destruction of Abd Subcu/Fascia, Open Approach",72538,Male
+474,Washington,"Insertion of Infusion Device into L Knee Jt, Open Approach",128026,Male
+475,Illinois,"Dilation of Bilateral Ureters, Open Approach",100398,Female
+476,Iowa,"Transfuse Allo Rel Bone Marrow in Central Vein, Perc",25159,Female
+477,Idaho,"Bypass Mid Esophag to Duoden with Nonaut Sub, Open Approach",65721,Male
+478,South Carolina,"Revision of Stimulator Lead in Ureter, Via Opening",15950,Non-binary
+479,Texas,"Drainage of Left Parietal Bone with Drain Dev, Perc Approach",25728,Female
+480,Tennessee,"Drainage of Peritoneum with Drainage Device, Open Approach",94974,Genderfluid
+481,Oregon,"Insertion of Int Fix into R Ethmoid Bone, Open Approach",15271,Male
+482,Louisiana,"Detachment at Left Foot, Complete 3rd Ray, Open Approach",88477,Female
+483,District of Columbia,"Transfer Trigeminal Nerve to Optic Nerve, Perc Endo Approach",42403,Polygender
+484,Georgia,"Dilation of Intracranial Vein, Percutaneous Approach",47877,Female
+485,Minnesota,"Extirpation of Matter from R Frntl Sinus, Perc Approach",125901,Male
+486,New York,"Transfer L Low Arm Subcu/Fascia w Skin, Subcu, Open",,Male
+487,Pennsylvania,"Supplement Left Knee Region with Autol Sub, Open Approach",38331,Female
+488,District of Columbia,"Transfer L Hand Muscle with Skin, Subcu, Perc Endo Approach",113940,Male
+489,Texas,"Dilation of L Hand Art with Intralum Dev, Open Approach",25465,Female
+490,California,"Occlusion of Left Brachial Artery, Percutaneous Approach",89607,Genderfluid
+491,Arkansas,MRI of Bi Jugular Vein using Oth Contrast,99998,Female
+492,Connecticut,"CT Scan of Cisterna using Oth Contrast, Unenh, Enhance",63206,Agender
+493,Ohio,"Drainage of Left Ankle Tendon, Percutaneous Approach",102589,Female
+494,Vermont,"Release Left Clavicle, Percutaneous Approach",89856,Male
+495,California,"Supplement Sigmoid Colon with Autol Sub, Endo",95453,Male
+496,District of Columbia,"Removal of Infusion Dev from Scrotum & Tunica, Perc Approach",45083,Female
+497,Florida,"Bypass R Int Iliac Art to Foot Art w Nonaut Sub, Perc Endo",51356,Female
+498,Ohio,"Removal of Autol Sub from Low Tendon, Perc Endo Approach",118547,Female
+499,Ohio,"Release L Up Arm Subcu/Fascia, Extern Approach",83171,Male
+500,Texas,"Drainage of Hymen with Drainage Device, Perc Endo Approach",88913,Male
+501,Texas,"Drainage of Bilateral Spermatic Cords, Open Approach, Diagn",16069,Female
+502,Colorado,Ultrasonography of Esophagus,91794,Male
+503,Florida,"Monitoring of Venous Saturation, Portal, Open Approach",63596,Male
+504,Michigan,"Control Bleeding in Left Pleural Cavity, Open Approach",93651,Female
+505,Minnesota,"Inspection of T-lum Disc, Perc Endo Approach",143323,Female
+506,Texas,"Supplement Right Hepatic Duct with Synth Sub, Perc Approach",59396,Female
+507,New York,"Restrict R Hepatic Duct w Extralum Dev, Perc Endo",72928,Female
+508,Georgia,"Dilation of L Pulm Vein with Intralum Dev, Perc Approach",51020,Female
+509,Texas,"Drainage of Cervical Vertebra with Drain Dev, Perc Approach",85176,Male
+510,Florida,"Drainage of Gastric Artery, Open Approach",97932,Female
+511,Texas,"Repair Right Ethmoid Bone, Percutaneous Endoscopic Approach",33423,Female
+512,Nebraska,"Revise of Synth Sub in Epididymis/Sperm Cord, Open Approach",69097,Female
+513,California,"Drainage of Right Parotid Duct, Percutaneous Approach",116456,Female
+514,Georgia,"Removal of Drain Dev from R Acromioclav Jt, Extern Approach",23751,Female
+515,Oklahoma,"Fragmentation in Right Kidney Pelvis, Perc Endo Approach",96945,Male
+516,New York,"Revision of Cardiac Lead in Heart, Open Approach",115879,Male
+517,Georgia,"Bypass Trachea to Cutaneous, Perc Endo Approach",13860,Female
+518,Idaho,"Supplement Left Upper Eyelid with Synth Sub, Perc Approach",83619,Female
+519,California,"Control Bleeding in Right Wrist Region, Perc Approach",131447,Male
+520,Virginia,"Revision of Synthetic Substitute in L Scapula, Perc Approach",85148,Male
+521,Massachusetts,"Revision of Autol Sub in R Low Extrem, Extern Approach",105305,
+522,Texas,"Removal of Nonaut Sub from Low Bursa/Lig, Open Approach",59321,Male
+523,Texas,"Supplement Intracran Vein with Autol Sub, Perc Endo Approach",72918,Male
+524,California,"Dilate L Int Iliac Art w 4+ Intralum Dev, Open",141015,Female
+525,Texas,"Drainage of Right Metacarpocarpal Joint, Perc Approach",54750,Male
+526,Colorado,"ROM & Jt Mobility Trmt Musculosk Head, Neck w Assist Equip",133017,Female
+527,Kansas,"Drainage of Left Inguinal Region, Perc Endo Approach",14086,Female
+528,Texas,"Removal of Drainage Device from Testis, Open Approach",86984,
+529,Virginia,"Dilation of R Brach Art with 3 Intralum Dev, Perc Approach",107354,Male
+530,Ohio,"Insertion of Int Fix into Lum Jt, Open Approach",16631,Male
+531,Texas,"Excision of Superior Mesenteric Artery, Perc Endo Approach",95724,Female
+532,West Virginia,"Fluoroscopy of Epidural Veins using Other Contrast, Guidance",75944,Female
+533,Indiana,"Drain R Int Jugular Vein w Drain Dev, Perc Endo",70243,Female
+534,Texas,"Drainage of Right Lower Eyelid, Percutaneous Approach",77459,Female
+535,Florida,"Reposition Right Wrist Joint, Perc Endo Approach",105235,Bigender
+536,California,"Replace R Low Arm Subcu/Fascia w Synth Sub, Open",37091,Female
+537,Tennessee,"Removal of Infusion Device from Kidney, Perc Endo Approach",28431,Female
+538,California,"Dilation of Splenic Artery, Bifurcation, Perc Approach",96806,Female
+539,Minnesota,Magnetic Resonance Imaging (MRI) of Cervico-Cerebral Arch,117468,Male
+540,Colorado,"Supplement Left Wrist Joint with Synth Sub, Open Approach",132235,Male
+541,Florida,"Revision of Synth Sub in L Femur Shaft, Open Approach",60557,Male
+542,Kentucky,"Repair Right Thorax Muscle, Open Approach",82410,Female
+543,Texas,"Revision of Nonaut Sub in L Acetabulum, Perc Approach",13122,Male
+544,Tennessee,"Bypass R Com Iliac Art to Abd Aorta w Synth Sub, Perc Endo",43242,Polygender
+545,Massachusetts,"Excision of Papillary Muscle, Perc Endo Approach, Diagn",101081,Female
+546,California,"Repair Right Sternoclavicular Joint, External Approach",108645,Male
+547,New York,"Drainage of Right Upper Femur with Drain Dev, Open Approach",90009,Male
+548,Oregon,,71427,Male
+549,District of Columbia,"Destruction of Buccal Mucosa, Open Approach",,Male
+550,Kentucky,"Destruction of Mesentery, Percutaneous Approach",49485,Male
+551,West Virginia,"Release R Low Arm Subcu/Fascia, Extern Approach",43831,Male
+552,Florida,"Bypass Upper Esophagus to Cutaneous, Endo",94028,Male
+553,Texas,"Extirpation of Matter from Vagina, Endo",65513,Female
+554,Illinois,"Transplantation of Musculoskel Sys into POC, Perc Approach",43172,Female
+555,Oklahoma,"Inspection of Lumbar Vertebral Joint, Percutaneous Approach",52314,Female
+556,Florida,"Introduction of Anti-inflammatory into Upper GI, Endo",114907,Male
+557,Minnesota,"Transfer Left Foot Muscle, Percutaneous Endoscopic Approach",31046,Male
+558,California,"Reposition Right Orbit, Open Approach",70503,Female
+559,California,"Drainage of Right Kidney Pelvis, Endo",120620,Female
+560,District of Columbia,"Drainage of Right Finger Phalanx, Perc Endo Approach, Diagn",68859,Genderqueer
+561,California,"Drainage of Left Fallopian Tube, Endo, Diagn",45310,Male
+562,Massachusetts,"Replacement of Right Lacrimal Duct with Autol Sub, Endo",31766,Female
+563,Nebraska,"Drainage of Minor Salivary Gland, Perc Approach, Diagn",15233,Genderfluid
+564,Virginia,CT Scan of Bi Pelvic Vein using L Osm Contrast,59836,Female
+565,Texas,"Repair Right Upper Arm, Open Approach",97089,Female
+566,Indiana,"Bypass 1 Cor Art from R Int Mammary, Open Approach",46258,Female
+567,Iowa,"Bypass L Int Iliac Art to B Int Ilia, Open Approach",50635,Female
+568,Pennsylvania,"Release Abducens Nerve, Percutaneous Endoscopic Approach",15781,Male
+569,Tennessee,"Reposition Left Subclavian Artery, Open Approach",,
+570,Washington,"Revision of Intralum Dev in Vas Deferens, Extern Approach",80783,Male
+571,Florida,"Introduce of Radioact Subst into Male Reprod, Perc Approach",113140,Male
+572,California,Beam Radiation of Duodenum using Photons 1 - 10 MeV,133278,Female
+573,Texas,"Repair Perineum Tendon, Percutaneous Endoscopic Approach",70307,Male
+574,Pennsylvania,"Destruction of Left Lung, Percutaneous Endoscopic Approach",57094,Male
+575,Maryland,"Insertion of Ext Fix into R Maxilla, Open Approach",52527,Female
+576,Texas,"Removal of Other Device from Cranial Cavity, Open Approach",85069,Male
+577,California,"Oth proc, Phys Sys & Anat Regions, Other Procedures",84620,Male
+578,District of Columbia,"Dilation of Lower Vein, Percutaneous Approach",114634,Female
+579,California,"Restriction of Stomach with Intralum Dev, Perc Approach",121150,Female
+580,Missouri,"Excision of Descending Colon, Endo",80088,
+581,Florida,"Repair Bilateral Epididymis, Percutaneous Approach",104310,Female
+582,Ohio,"Excision of Cervical Plexus, Percutaneous Approach, Diagn",40757,Female
+583,Illinois,"Removal of Drainage Device from Ureter, Perc Approach",112476,Female
+584,Arizona,Plain Radiography of Right Shoulder using H Osm Contrast,56582,Male
+585,Oklahoma,"Fusion Occip Jt w Synth Sub, Post Appr P Col, Perc",39272,Male
+586,Texas,"Removal of Intraluminal Device from Nose, Perc Endo Approach",33648,Female
+587,Alabama,"Excision of Right Ovary, Percutaneous Approach",28724,Female
+588,Pennsylvania,"Reposition Right Upper Eyelid, Percutaneous Approach",102090,Female
+589,Florida,"Removal of Int Fix from L Ulna, Perc Endo Approach",99420,Male
+590,Colorado,"Restriction of Lingula Bronchus, Perc Endo Approach",78123,Male
+591,California,"Revision of Radioact Elem in Periton Cav, Open Approach",116754,Female
+592,Arizona,"Transfer R Low Leg Muscle with Subcu, Perc Endo Approach",21511,
+593,Mississippi,"Revision of Monitoring Device in Brain, Perc Approach",74844,Male
+594,California,"Control Bleeding in Right Knee Region, Percutaneous Approach",134155,Female
+595,New York,"Revision of Infusion Dev in R Up Extrem, Perc Endo Approach",145994,Female
+596,Florida,"Repair Right Shoulder Bursa and Ligament, Perc Approach",9827,Female
+597,Kentucky,"Removal of Synth Sub from Low Jaw, Perc Endo Approach",19681,Male
+598,Michigan,"Restrict R Com Carotid w Bioact Intralum, Perc Endo",64634,Male
+599,District of Columbia,"Bypass L Axilla Vein to Up Vein w Nonaut Sub, Perc Endo",68735,Female
+600,Texas,"Bypass L Fem Art to L Femor A w Nonaut Sub, Perc Endo",34240,Female
+601,District of Columbia,"Supplement Left Fibula with Nonaut Sub, Perc Approach",26885,Non-binary
+602,Pennsylvania,"Revision of Synth Sub in R Metatarsotars Jt, Open Approach",96201,Male
+603,New York,"Removal of Autol Sub from Up Tendon, Perc Endo Approach",105286,Female
+604,New Hampshire,"Transfer L Foot Subcu/Fascia with Skin, Subcu, Open Approach",85530,Female
+605,Virginia,"Restriction of R Parotid Duct with Intralum Dev, Via Opening",19130,Female
+606,California,"Reposition Right Tibia with Intramed Fix, Perc Approach",143437,Female
+607,California,"Reposition Tongue, External Approach",116933,Genderfluid
+608,Texas,"Removal of Monitoring Device from Up Vein, Extern Approach",29311,Female
+609,Oregon,"Bypass R Com Iliac Art to L Ext Ilia w Synth Sub, Perc Endo",86158,Male
+610,New York,,27380,Male
+611,Florida,Piercing of Integumentary System and Breast,19954,Female
+612,California,,97716,
+613,Oregon,"Supplement Right Metacarpal with Nonaut Sub, Perc Approach",115275,Male
+614,Louisiana,"Removal of Synth Sub from R Tarsal, Perc Endo Approach",,Female
+615,West Virginia,"Replace of L Verteb Art with Autol Sub, Perc Endo Approach",93233,
+616,Florida,"Destruction of Right Hip Tendon, Open Approach",96727,Female
+617,Florida,"Dilate R Ant Tib Art, Bifurc, w Intralum Dev, Perc",79621,Male
+618,Georgia,"Repair Right Hand Skin, External Approach",78092,Male
+619,Texas,"Supplement Sacral Nerve with Autol Sub, Perc Endo Approach",61435,
+620,Louisiana,"Repair L Low Arm Subcu/Fascia, Open Approach",74822,Female
+621,Georgia,Beam Radiation of Ovary using Neutrons,12097,Female
+622,Texas,"Bypass R Ventricle to R Pulm Art w Autol Art, Perc Endo",48078,Male
+623,Iowa,"Removal of Nonaut Sub from Pancreat Duct, Endo",90935,Female
+624,California,Assistive Listening Device Device Fitting using AV Equipment,120244,Male
+625,Colorado,"Excision of Left Diaphragm, Open Approach, Diagnostic",61228,Female
+626,Texas,"Replacement of Pulm Valve with Nonaut Sub, Open Approach",61657,Male
+627,Minnesota,"Dilate L Ext Carotid, Bifurc, w 4+ Intralum Dev, Perc Endo",35554,Male
+628,Georgia,"Insertion of Infusion Dev into L Subclav Vein, Open Approach",50278,Male
+629,California,"Dilate L Popl Art, Bifurc, w 3 Intralum Dev, Perc",24626,Female
+630,Tennessee,"Drainage of Left Internal Iliac Artery, Open Approach",86817,Male
+631,Alabama,"Remove Autol Sub from R Metatarsotars Jt, Perc Endo",36098,Male
+632,California,"Drainage of Trochlear Nerve with Drain Dev, Open Approach",44258,Bigender
+633,Texas,"Drainage of Left Shoulder Bursa and Ligament, Open Approach",91058,Male
+634,South Carolina,"Inspection of Nose, Percutaneous Approach",50714,Male
+635,New Mexico,"Revision of Monitor Dev in Great Vessel, Extern Approach",96970,Female
+636,New York,"Reposition Thoracic Spinal Cord, Perc Endo Approach",50747,Male
+637,West Virginia,"Inspection of Adrenal Gland, Open Approach",39315,Female
+638,Florida,Removal of Brace on Neck,48631,Female
+639,Illinois,"Release Right Popliteal Artery, Perc Endo Approach",,Male
+640,Florida,"Excision of Right Lobe Liver, Open Approach, Diagnostic",13780,Female
+641,Washington,"Drainage of Right Fibula with Drainage Device, Open Approach",10862,
+642,Texas,Nonspoken Language Treatment using Computer,25497,Female
+643,Florida,"Dilation of R Hand Art with 4+ Intralum Dev, Open Approach",75446,Female
+644,Wisconsin,"Supplement L Femoral Region w Autol Sub, Perc Endo",63651,Male
+645,Virginia,"Removal of Extraluminal Device from Urethra, Endo",30976,Female
+646,Washington,"Occlusion of Cul-de-sac, Via Natural or Artificial Opening",116844,Male
+647,Michigan,"Extirpation of Matter from Anal Sphincter, Open Approach",10181,Female
+648,Florida,"Supplement Left Epididymis with Synth Sub, Open Approach",74610,Male
+649,Washington,Muscle Perform Trmt Neuro Up Back/UE w Assist Equip,70841,Male
+650,Nebraska,"Bypass Up Esophag to Jejunum w Synth Sub, Perc Endo",26879,Male
+651,Pennsylvania,"Division of R Knee Bursa/Lig, Perc Endo Approach",39865,Male
+652,North Carolina,"Revision of Spacer in Occip Jt, Open Approach",107725,Female
+653,Minnesota,"Reposition Left Femoral Shaft, External Approach",33689,Male
+654,Montana,"Release Brachial Plexus, Open Approach",14064,Female
+655,Florida,"Excision of Thoracolumbar Vertebral Disc, Perc Approach",113052,Male
+656,California,"Bypass R Fem Art to Peron Art w Nonaut Sub, Perc Endo",52686,
+657,Florida,Plain Radiography of Thor-abd Aorta using H Osm Contrast,15893,Male
+658,North Carolina,"Introduce Oth Therap Subst in Male Reprod, Perc",91992,Male
+659,Illinois,"Dilate L Hand Art, Bifurc, w Intralum Dev, Perc Endo",,Female
+660,New Hampshire,Stereotactic Gamma Beam Radiosurgery of Uterus,91626,Male
+661,Louisiana,"Supplement Neck with Synth Sub, Perc Endo Approach",94490,Female
+662,New Mexico,"Insertion of Infusion Device into L Renal Art, Open Approach",10454,Female
+663,Maryland,"Transfer Right Upper Leg Skin, External Approach",88566,Female
+664,Tennessee,"Inspection of Endocrine Gland, Percutaneous Approach",18008,Male
+665,Kentucky,"Insertion of Int Fix into L Hip Jt, Perc Endo Approach",65333,Female
+666,Pennsylvania,"Fusion of Left Sternoclavicular Joint, Percutaneous Approach",9706,Male
+667,District of Columbia,"Supplement Bilateral Breast with Synth Sub, Perc Approach",95667,Female
+668,Kentucky,"Drainage of Thor Spinal Cord with Drain Dev, Perc Approach",80468,Male
+669,Michigan,"Dilation of R Vas Deferens with Intralum Dev, Perc Approach",45313,Male
+670,North Carolina,"Bypass 2 Cor Art from Abd Art, Open Approach",61300,Male
+671,Kentucky,"Reposition Left Tarsal with Ext Fix, Perc Approach",29799,Male
+672,Texas,"Release Right Foot Tendon, Percutaneous Approach",73634,Male
+673,Massachusetts,"Dilation of R Lg Intest with Intralum Dev, Via Opening",22130,Female
+674,Florida,"Drainage of Left Patella with Drainage Device, Perc Approach",78361,Female
+675,California,"Dilation of L Fem Art with 2 Drug-elut, Perc Approach",149478,Female
+676,California,"Removal of Autol Sub from Brain, Perc Endo Approach",41796,Male
+677,California,"Replace Ventricular Sept w Zooplastic, Perc Endo",79404,Female
+678,Virginia,"Bypass 4+ Cor Art from L Int Mammary w Autol Art, Perc Endo",27396,Male
+679,Florida,"Extraction of Phrenic Nerve, Perc Endo Approach",39564,Female
+680,Nevada,"Excision of Left Upper Lung Lobe, Open Approach, Diagnostic",13251,Male
+681,Georgia,"Dilation of Right Main Bronchus, Endo",45212,Female
+682,Minnesota,"Bypass 2 Cor Art from Thor Art, Perc Endo Approach",63515,Male
+683,Nevada,"Drainage of Descending Colon, Open Approach",92444,Female
+684,Michigan,"Inspection of Uterus and Cervix, Via Opening",15155,
+685,Florida,"Revision of Autol Sub in Male Perineum, Extern Approach",11526,Male
+686,Colorado,"Division of R Shoulder Bursa/Lig, Perc Endo Approach",25265,Male
+687,Pennsylvania,"Removal of Autol Sub from Thoracic Duct, Perc Endo Approach",107179,Female
+688,Illinois,"Destruction of Right Orbit, Open Approach",84957,Female
+689,Ohio,"Insert Infusion Dev in Inf Vena Cava, Perc Endo",29498,Male
+690,California,"Drainage of Right Renal Artery with Drain Dev, Perc Approach",123615,Male
+691,Texas,"Insertion of Ext Fix into L Fibula, Perc Approach",21259,
+692,Maryland,"Removal of Synthetic Substitute from L Hip Jt, Perc Approach",120229,Bigender
+693,Texas,"Removal of Other Device from Lower Jaw, Perc Approach",75504,Male
+694,Louisiana,"Drainage of Left Vocal Cord with Drain Dev, Perc Approach",58155,Male
+695,California,"Drainage of Right Clavicle, Percutaneous Approach",30995,Male
+696,Illinois,"Removal of Autol Sub from L Tarsal Jt, Perc Approach",135536,Male
+697,Ohio,"Excision of R Metacarpophal Jt, Open Approach, Diagn",13636,Male
+698,Oklahoma,"Extirpation of Matter from Left Hip Tendon, Perc Approach",61134,
+699,Pennsylvania,"Removal of Infusion Device from Penis, Endo",77399,Male
+700,Michigan,"Drainage of Head Lymphatic, Open Approach, Diagnostic",29744,Male
+701,California,"Bypass Innominate Artery to Bi Up Arm Art, Open Approach",60111,Female
+702,Washington,"Reposition Left Humeral Shaft with Ext Fix, Perc Approach",39526,Male
+703,Florida,"Replacement of R Toe Phalanx with Synth Sub, Open Approach",,Male
+704,Michigan,"Removal of Drain Dev from Spinal Cord, Perc Endo Approach",20297,Male
+705,Massachusetts,"Reposition Left Upper Arm Tendon, Perc Endo Approach",149414,Female
+706,Texas,Removal of Cast on Left Upper Leg,78951,Male
+707,Georgia,"Bypass Duodenum to Ileum with Synth Sub, Open Approach",79582,Non-binary
+708,New York,"Drainage of Right Abdomen Bursa and Ligament, Open Approach",101507,Non-binary
+709,Washington,"Dilate R Hand Art, Bifurc, w Drug-elut Intra, Perc",83156,Male
+710,Connecticut,"Fusion of L Finger Phalanx Jt with Nonaut Sub, Open Approach",101737,Male
+711,New York,"Bypass Intracran Vein to Up Vein w Nonaut Sub, Perc Endo",109006,
+712,California,"Replace of Up Tooth, Sing, with Synth Sub, Extern Approach",61057,Female
+713,Tennessee,"Insert of Infusion Dev into L Lobe Liver, Perc Endo Approach",95073,Male
+714,Tennessee,"Dilation of Mitral Valve with Drug-elut Intra, Perc Approach",73733,Female
+715,Iowa,,79069,Female
+716,Georgia,"Transfuse Nonaut Fibrinogen in Periph Art, Open",21946,
+717,Iowa,"Excision of Left Vocal Cord, Perc Endo Approach, Diagn",7543,Male
+718,Maryland,Magnetic Resonance Imaging (MRI) of Right Lower Leg,72284,Male
+719,Maryland,,34775,Male
+720,Florida,"Insertion of Int Fix into Thor Vertebra, Open Approach",76741,Male
+721,Massachusetts,"Occlusion L Ext Carotid w Extralum Dev, Perc Endo",148298,Female
+722,Ohio,"Lower Arteries, Excision",113158,Male
+723,Michigan,Muscle Perform Trmt Musculosk Up Back/UE w Assist Equip,116125,Male
+724,Missouri,"Repair Left Lung, Percutaneous Endoscopic Approach",44685,Female
+725,Washington,"Excision of Lumbar Spinal Cord, Open Approach, Diagnostic",64379,Male
+726,New York,"Reposition Right Hip Joint, Percutaneous Approach",107147,
+727,New York,"Occlusion of Aortic Lymph with Extralum Dev, Open Approach",81671,Male
+728,California,"Replacement of L Axilla Vein with Autol Sub, Open Approach",113373,Female
+729,California,"Supplement Left Finger Phalanx with Autol Sub, Open Approach",132669,Female
+730,Kentucky,Masking Patterns Assessment,37506,Female
+731,Texas,"Revision of Drainage Device in Larynx, Open Approach",41365,Female
+732,Kansas,"Release Spinal Meninges, Percutaneous Endoscopic Approach",9488,Male
+733,California,"Drainage of Spinal Meninges, Open Approach, Diagnostic",87879,Male
+734,Texas,Wound Mgmt Trmt Musculosk Low Back/LE w Electrotherap Equip,68952,Female
+735,South Carolina,"Reattachment of R Wrist Bursa/Lig, Open Approach",89623,Female
+736,California,"Supplement Heart with Synthetic Substitute, Perc Approach",117551,Male
+737,South Carolina,"Transfuse Nonaut Serum Albumin in Periph Art, Open",11557,Male
+738,West Virginia,"Supplement Ampulla of Vater with Synth Sub, Perc Approach",31374,Male
+739,Texas,"Bypass R Int Iliac Art to L Ext Ilia w Nonaut Sub, Perc Endo",40358,Polygender
+740,New York,"Reposition Pancreatic Duct, Percutaneous Endoscopic Approach",40343,Male
+741,Louisiana,"Restrict Thor Aorta Asc w Fenestr Dev 1 or 2, Perc",54430,Male
+742,New Mexico,"Removal of Int Fix from R Patella, Open Approach",33144,Female
+743,Colorado,"Excision of L Wrist Bursa/Lig, Perc Endo Approach",16447,Male
+744,Kentucky,Plain Radiography of Sacroiliac Joints using H Osm Contrast,36521,Genderfluid
+745,Florida,"Extraction of Right Maxillary Sinus, Percutaneous Approach",95186,Male
+746,Texas,Low Dose Rate (LDR) Brachytherapy of Rectum using Iodine 125,93895,Male
+747,Georgia,"Replace L Foot Subcu/Fascia w Nonaut Sub, Perc",30579,Female
+748,Michigan,"Bypass L Radial Art to L Low Arm Art w Nonaut Sub, Open",43262,Male
+749,District of Columbia,,,Female
+750,Minnesota,"Revision of Int Fix in L Tibia, Extern Approach",74177,Polygender
+751,Florida,"Occlusion of Urethra with Intraluminal Device, Open Approach",85510,Male
+752,Texas,"Dilation of R Int Iliac Art with 4 Drug-elut, Perc Approach",73276,Male
+753,Texas,"Destruction of Stomach, Pylorus, Perc Endo Approach",90808,Female
+754,Utah,"Occlusion of Lower Vein, Percutaneous Endoscopic Approach",49860,Male
+755,Illinois,"Creation of Vagina in Male Perineum, Open Approach",136338,Male
+756,Florida,"Removal of Spacer from Left Tarsal Joint, Perc Approach",42087,Male
+757,Oklahoma,,24875,Female
+758,Texas,"Restrict of Lingula Bronc with Extralum Dev, Open Approach",97984,Male
+759,Florida,"Restrict L Int Jugular Vein w Intralum Dev, Open",,Male
+760,Florida,"Reposition R Temporomandib Jt w Int Fix, Perc Endo",70310,Polygender
+761,District of Columbia,"Excision of Uterine Support Struct, Perc Approach, Diagn",53594,
+762,Tennessee,"Excision of Sciatic Nerve, Percutaneous Endoscopic Approach",56248,Female
+763,Texas,Removal of Traction Apparatus on Chest Wall,71756,Male
+764,Florida,"Drainage of Spinal Canal, Percutaneous Approach",19384,Female
+765,Minnesota,"Supplement Perineum Tendon with Synth Sub, Open Approach",22002,Male
+766,Massachusetts,"Removal of Infusion Device from L Hip Jt, Extern Approach",104089,Female
+767,California,"Revision of Int Fix in R Humeral Shaft, Perc Approach",73625,Female
+768,Pennsylvania,"Supplement L Ext Iliac Vein with Autol Sub, Open Approach",68039,Female
+769,Georgia,"Supplement L Up Extrem Lymph with Nonaut Sub, Open Approach",66212,Male
+770,New York,"Reattachment of Right Thorax Muscle, Perc Endo Approach",60757,Male
+771,North Carolina,"Bypass R Basilic Vein to Up Vein w Autol Vn, Perc Endo",104917,Male
+772,Minnesota,Beam Radiation of Hemibody using Electrons,74551,Female
+773,Texas,"Insert of Monopln Ext Fix into R Humeral Head, Open Approach",38277,Female
+774,New Jersey,"Removal of Extraluminal Device from R Eye, Extern Approach",146185,Male
+775,New York,"Insert Radioact Elem in Tracheobronc Tree, Perc",89735,Male
+776,California,"Fusion 2-4 L Jt w Intbd Fus Dev, Ant Appr A Col, Open",129571,Male
+777,Virginia,"Extraction of Finger Nail, External Approach",102207,Male
+778,Florida,"Occlusion of Inf Mesent Art with Intralum Dev, Perc Approach",56791,Male
+779,Mississippi,"Supplement R Lg Intest with Nonaut Sub, Via Opening",48949,Female
+780,District of Columbia,"Reposition R Humeral Head w Ring Ext Fix, Perc Endo",66445,Male
+781,Texas,"Drainage of Left Palatine Bone, Open Approach",13880,Male
+782,Missouri,Beam Radiation of Urethra using Electrons,11770,Female
+783,California,"Bypass Right Hepatic Duct to Cystic Duct, Open Approach",21904,Female
+784,Wisconsin,"Repair Left Ring Finger, External Approach",83047,Female
+785,Florida,"Insertion of Intraluminal Device into Ileum, Perc Approach",118113,Male
+786,Virginia,"Removal of Intraluminal Device from Urethra, Perc Approach",117993,Female
+787,Virginia,"Insert of Spacer into L Metacarpocarp Jt, Perc Endo Approach",48535,Female
+788,California,"Extirpation of Matter from L Abd Muscle, Perc Approach",68461,Female
+789,Illinois,"Release Right Lower Arm and Wrist Tendon, External Approach",76017,Male
+790,Georgia,"Destruction of Superior Vena Cava, Perc Endo Approach",84066,Female
+791,Tennessee,"Removal of Feeding Dev from Low Intest Tract, Perc Approach",89142,Male
+792,California,"Measurement of Gastrointestinal Secretion, Endo",19136,Female
+793,Alabama,"Dilate of L Temporal Art with 4+ Intralum Dev, Open Approach",67360,Male
+794,Kansas,"Bypass Access Pancr Duct to Sm Int, Perc Endo Approach",82885,Male
+795,Florida,"Fusion of >7 T Jt, Post Appr P Col, Open Approach",117505,Female
+796,Nebraska,Fluoroscopy of Left Ureter using Low Osmolar Contrast,39585,
+797,Florida,"Drainage of Perineum Muscle, Perc Endo Approach, Diagn",102163,Male
+798,South Carolina,"Dilation of Innominate Artery, Bifurcation, Perc Approach",6490,Genderqueer
+799,Tennessee,"Occlusion of R Ulnar Art with Intralum Dev, Open Approach",27376,Male
+800,Minnesota,"Destruction of Left Upper Leg Skin, External Approach",54163,Female
+801,California,"Drainage of Glomus Jugulare, Open Approach",112591,Female
+802,Florida,"Dilate L Fem Art, Bifurc, w 4+ Intralum Dev, Perc Endo",53371,
+803,Texas,"Release Right Hip Bursa and Ligament, Open Approach",43011,Male
+804,California,"Bypass Left Brachial Artery to L Low Arm Art, Open Approach",17522,Female
+805,Texas,"Excision of Multiple Parathyroid Glands, Perc Endo Approach",,Male
+806,Virginia,"Supplement R Palatine Bone w Synth Sub, Perc Endo",103010,Female
+807,Texas,"Replacement of L Sacroiliac Jt with Autol Sub, Open Approach",66137,Male
+808,California,"Supplement L Low Extrem Lymph with Autol Sub, Open Approach",107335,
+809,North Carolina,"Repair Right External Iliac Artery, Open Approach",72003,Female
+810,Nevada,"Removal of Monitoring Device from Brain, Perc Endo Approach",33488,Male
+811,Pennsylvania,"Dilate 3 Cor Art, Bifurc, w Intralum Dev, Perc",115735,Male
+812,Tennessee,"Drainage of Lumbar Vertebral Disc, Perc Endo Approach",63866,Male
+813,Pennsylvania,"Division of Left Hip Tendon, Open Approach",26023,Male
+814,Florida,"Fusion of L Metacarpophal Jt with Synth Sub, Open Approach",34280,Female
+815,New York,"Replace of Com Bile Duct with Autol Sub, Perc Endo Approach",84641,Male
+816,Iowa,"Supplement Left Scapula with Nonaut Sub, Perc Endo Approach",81191,Female
+817,Wisconsin,"Supplement Left Ring Finger with Synth Sub, Open Approach",114164,
+818,District of Columbia,Orofacial Myofunctional Treatment,35984,Female
+819,California,"Drainage of L Ankle Bursa/Lig with Drain Dev, Open Approach",16400,Male
+820,Virginia,"Fusion 2-4 L Jt w Nonaut Sub, Post Appr P Col, Perc Endo",14458,Female
+821,Massachusetts,"CT Scan L Pelvic Vein w L Osm Contrast, Unenh, Enhance",108196,Female
+822,Minnesota,Osteopathic Treatment of Rib Cage using Other Method,57656,Female
+823,Pennsylvania,Muscle Perform Assess Neuro Body w Assist Equip,75772,Male
+824,Texas,Wound Mgmt Treatment of Integu Up Back/UE using Prosthesis,28287,Female
+825,Ohio,"Occlusion of R Axilla Lymph with Extralum Dev, Open Approach",98097,Male
+826,Wisconsin,"Inspection of Right Wrist Region, Open Approach",43584,Non-binary
+827,Pennsylvania,"Remove of Extralum Dev from Tracheobronc Tree, Open Approach",80514,Genderqueer
+828,Washington,"Removal of Drainage Device from Left Breast, Extern Approach",83030,
+829,Nebraska,"Insert Intralum Dev in Inf Vena Cava, Perc Endo",48123,Female
+830,Virginia,"Excision of Left Lower Leg Tendon, Perc Endo Approach",45736,Male
+831,Louisiana,"Insert of Int Fix into R Parietal Bone, Perc Endo Approach",88694,Bigender
+832,Kentucky,"Destruction of Left Ankle Joint, Open Approach",,Female
+833,Kentucky,"Excision of Right Shoulder Bursa and Ligament, Perc Approach",56236,Female
+834,Texas,HDR Brachytherapy of Bladder using Iodine 125,30552,Female
+835,California,"Introduction of Vasopressor into Periph Vein, Open Approach",69163,
+836,North Carolina,"Excision of Cerebellum, Open Approach",44271,Female
+837,Pennsylvania,"Bypass Jejunum to Descending Colon, Open Approach",95673,Male
+838,Georgia,"Reposition Left Thumb Phalanx with Int Fix, Perc Approach",79348,Male
+839,Florida,Plain Radiography of L Low Extrem Lymph using Oth Contrast,69729,Female
+840,Minnesota,"Revision of Infusion Device in Occip Jt, Open Approach",40275,Male
+841,Florida,"Resection of Thorax Lymphatic, Perc Endo Approach",104257,
+842,Florida,"Extirpate of Matter from L Ethmoid Sinus, Perc Endo Approach",80721,Male
+843,Washington,"Insert Intralum Dev in R Less Saphenous, Perc Endo",117111,Female
+844,Ohio,"Resection of Duodenum, Via Natural or Artificial Opening",61940,Male
+845,Iowa,Traction of Abdominal Wall using Traction Apparatus,69394,Female
+846,Arizona,"Inspection of Thoracic Vertebral Disc, External Approach",,Female
+847,New York,"Restriction of R Brach Vein with Extralum Dev, Open Approach",12275,Female
+848,Nevada,"Transfuse Nonaut Frozen Red Cells in Central Art, Open",91807,Female
+849,Virginia,,108076,Polygender
+850,Michigan,"Revision of Nonaut Sub in Kidney, Via Opening",87834,Male
+851,Ohio,"Remove of Drain Dev from Prostate/Seminal Ves, Open Approach",104554,Male
+852,Minnesota,"Alteration of Bilateral External Ear, Percutaneous Approach",126394,Male
+853,Minnesota,"Remove of Spacer from R Temporomandib Jt, Perc Endo Approach",76811,Female
+854,North Carolina,"Removal of Monitoring Device from Ureter, Perc Approach",8286,Male
+855,Georgia,"Revise of Radioact Elem in Vagina & Cul-de-sac, Via Opening",25571,Bigender
+856,Ohio,"Alteration of Neck with Synthetic Substitute, Perc Approach",88332,Male
+857,Virginia,"Revision of Spacer in Right Sacroiliac Joint, Open Approach",78348,Male
+858,California,"Repair Right Spermatic Cord, Open Approach",45535,Male
+859,Alabama,,68557,Male
+860,California,"Muscle Performance Treatment of Neuro Head, Neck",99157,Male
+861,Pennsylvania,"Dilate 3 Cor Art, Bifurc, w Intralum Dev, Perc Endo",13028,Female
+862,Georgia,"Insertion of Int Fix into R Mandible, Perc Endo Approach",79997,Male
+863,California,"Excision of Radial Nerve, Percutaneous Endoscopic Approach",147923,Female
+864,Virginia,Exercise Treatment of Circ Low Back/LE using Orthosis,97627,Female
+865,Florida,"Bypass L Com Iliac Art to R Femor A w Synth Sub, Perc Endo",45733,Male
+866,California,"Extirpation of Matter from Lung Lingula, Open Approach",30909,Genderqueer
+867,Florida,Immobilization of Right Toe using Splint,96063,Male
+868,Arkansas,"Alteration of Neck with Autol Sub, Perc Endo Approach",51905,Male
+869,California,"Extirpation of Matter from L Abd Bursa/Lig, Open Approach",134967,Male
+870,New Hampshire,"Repair Left Humeral Shaft, External Approach",75643,Female
+871,Illinois,Tomo Nucl Med Imag of Spine & Pelvis using Oth Radionuclide,126513,Female
+872,Alaska,"Destruction of Left Eye, External Approach",82639,Female
+873,California,Beam Radiation of Thorax Lymphatics using Photons 1 - 10 MeV,62103,Male
+874,New York,"Supplement L Hip Tendon with Synth Sub, Perc Endo Approach",84949,Female
+875,Washington,"Excision of Cervical Spinal Cord, Open Approach",122907,Male
+876,California,Fluoroscopy of L Pelvic Vein using H Osm Contrast,51942,Female
+877,Alaska,"Replace of R Brach Art with Nonaut Sub, Perc Endo Approach",27392,Female
+878,Michigan,"Bypass Transverse Colon to Rectum, Endo",16235,Female
+879,New York,"Removal of Infusion Device from Lower Back, Extern Approach",136690,Female
+880,California,"Excision of Inferior Mesenteric Vein, Perc Endo Approach",34516,Bigender
+881,California,"Replacement of Esophageal Vein with Autol Sub, Open Approach",58691,Female
+882,California,"Occlusion L Basilic Vein w Intralum Dev, Perc Endo",35649,Female
+883,District of Columbia,"Dilation of Uterus with Intraluminal Device, Via Opening",75812,Female
+884,Oklahoma,"Repair Trochlear Nerve, Open Approach",68588,Male
+885,Minnesota,"Repair Left Hepatic Duct, Open Approach",56838,Male
+886,Pennsylvania,"Extirpate matter from R Up Arm Subcu/Fascia, Perc",90833,Male
+887,California,"Inspection of Right Metatarsal-Tarsal Joint, Perc Approach",123327,Female
+888,Texas,"Destruction of Right Upper Arm Tendon, Open Approach",45161,Non-binary
+889,Virginia,"Dilate R Fem Art, Bifurc, w Intralum Dev, Open",81385,Female
+890,Tennessee,"Reposition Right Glenoid Cavity, Percutaneous Approach",83902,Male
+891,Mississippi,"Bypass Sup Vena Cava to L Pulm Vn w Autol Vn, Open",76161,
+892,Oklahoma,"Insertion of Monitoring Electrode into POC, Via Opening",46781,Male
+893,Florida,"Removal of Autol Sub from Great Vessel, Perc Endo Approach",83090,Female
+894,Massachusetts,"Revision of Autol Sub in L Radius, Open Approach",93279,Male
+895,California,"Restriction of Innom Art with Extralum Dev, Open Approach",15599,Female
+896,California,"Drainage of Left Hip Tendon, Percutaneous Approach",105436,Female
+897,Louisiana,"Beam Radiation of Sternum using Electrons, Intraoperative",24416,Male
+898,Illinois,"Insertion of Infusion Device into L Pulm Art, Open Approach",41455,Male
+899,Florida,"Bypass R Int Iliac Art to L Int Ilia w Autol Vn, Open",47524,Female
+900,Florida,Compression of Left Upper Arm using Pressure Dressing,119235,Male
+901,Pennsylvania,"Drainage of Left Internal Carotid Artery, Open Approach",119104,Male
+902,Kansas,Plain Radiography of Bi Up Extrem Vein using L Osm Contrast,6906,Female
+903,Louisiana,"Control Bleeding in Left Buttock, Percutaneous Approach",83669,Male
+904,Texas,"Restriction of Middle Esophagus with Intralum Dev, Endo",68725,Female
+905,New Jersey,,83275,Female
+906,Indiana,"Insert Mult Array Stim Gen in Chest Subcu/Fascia, Perc",12505,Female
+907,California,"Measurement of Arterial Pulse, Pulmonary, Open Approach",,Male
+908,Florida,"Repair Spinal Meninges, Percutaneous Approach",75004,Male
+909,Arizona,"Repair Right Popliteal Artery, Percutaneous Approach",12465,Genderfluid
+910,Colorado,"Insertion of Infusion Device into Upper Back, Perc Approach",,Female
+911,Missouri,"Supplement L Knee with Autol Sub, Perc Endo Approach",14662,Male
+912,Iowa,"Release Right Inner Ear, Open Approach",22870,Genderqueer
+913,Arizona,"Supplement Left Hand Tendon with Synth Sub, Open Approach",65120,Male
+914,Texas,"Supplement Upper Jaw with Autol Sub, Open Approach",21256,Female
+915,Georgia,"Restriction of L Ulnar Art with Extralum Dev, Perc Approach",14454,Female
+916,Indiana,"Drainage of Bilateral Ureters, Open Approach, Diagnostic",44150,Male
+917,California,"Removal of Drainage Device from Periph Nrv, Open Approach",134112,
+918,Louisiana,"Dilate L Post Tib Art, Bifurc, w Intralum Dev, Perc Endo",17950,Female
+919,Washington,"Drainage of L Seminal Vesicle with Drain Dev, Perc Approach",136185,Female
+920,Missouri,"Excision of Middle Esophagus, Perc Endo Approach",62997,Female
+921,California,"Bypass Right Axillary Artery to L Up Arm Art, Open Approach",14778,Agender
+922,North Carolina,"Excision of Left Hand Muscle, Percutaneous Approach, Diagn",69474,Female
+923,Minnesota,"Drainage of Upper Jaw, Percutaneous Approach, Diagnostic",148744,Female
+924,Missouri,"MRI of Fetal Thorax using Oth Contrast, Unenh, Enhance",81042,Male
+925,Louisiana,"Removal of Synthetic Substitute from R Rib, Open Approach",98968,Male
+926,Washington,"Release Bilateral Spermatic Cords, Percutaneous Approach",80308,Male
+927,Connecticut,"Removal of Drain Dev from Thoracic Duct, Extern Approach",91636,Male
+928,Illinois,,93729,Male
+929,Ohio,"CT Scan L Pelvic Vein w L Osm Contrast, Unenh, Enhance",65645,Male
+930,North Carolina,"Excision of L Low Leg Subcu/Fascia, Perc Approach, Diagn",34098,
+931,Michigan,"Revision of Autol Sub in L Elbow Jt, Extern Approach",47475,Genderqueer
+932,Ohio,"Revision of Nonaut Sub in Lum Disc, Perc Endo Approach",102409,Male
+933,Arizona,"Extirpate matter from R Ext Carotid, Bifurc, Perc",57618,Female
+934,Kentucky,"Destruction of Left Axillary Artery, Percutaneous Approach",55088,Male
+935,Louisiana,"Heart and Great Vessels, Reposition",87638,Male
+936,Texas,"Extirpation of Matter from Lesser Omentum, Open Approach",52606,
+937,California,"Release Hepatic Vein, Open Approach",15864,Female
+938,New Mexico,Stereotactic Particulate Radiosurgery of Gallbladder,33068,Female
+939,Massachusetts,"Drainage of Left External Auditory Canal, Open Approach",19061,Male
+940,Georgia,Change Packing Material on Left Toe,21335,Polygender
+941,Pennsylvania,"Drainage of Thyroid Gland with Drain Dev, Open Approach",30809,Male
+942,Colorado,"Drainage of Right Renal Artery, Open Approach",60796,Polygender
+943,Minnesota,"Revise of Nonaut Sub in R Metatarsotars Jt, Extern Approach",130780,Male
+944,District of Columbia,"Bypass L Com Iliac Art to R Int Ilia w Nonaut Sub, Open",80139,Female
+945,Tennessee,"Fusion T-lum Jt w Nonaut Sub, Post Appr A Col, Open",70032,
+946,Texas,"Phys Rehab & Diag Audiology, Rehab, ADL Trmt",67873,Female
+947,Indiana,"Drainage of Left Finger Phalangeal Joint, Perc Endo Approach",28163,Male
+948,California,"Supplement Transverse Colon with Autol Sub, Open Approach",26905,Female
+949,Virginia,"Removal of Synthetic Substitute from R Breast, Open Approach",64251,Male
+950,Ohio,"Excision of Right Femoral Region, Perc Approach, Diagn",65390,Female
+951,North Dakota,"Dilate Bi Vas Deferens w Intralum Dev, Perc Endo",69238,Male
+952,Massachusetts,"Fusion of Left Knee Joint, Percutaneous Endoscopic Approach",59480,Male
+953,Ohio,"Destruction of Mitral Valve, Percutaneous Approach",46887,Male
+954,California,"Repair Left Upper Lobe Bronchus, Via Opening",35495,Female
+955,Florida,"Removal of Neuro Lead from Cereb Vent, Perc Approach",107587,Male
+956,Virginia,Radiography of Bi Low Extrem Lymph using H Osm Contrast,76995,Male
+957,Alabama,"Insert of Radioact Elem into Resp Tract, Perc Endo Approach",70375,Male
+958,Ohio,"Destruction of Right Carpal, Percutaneous Approach",14226,Female
+959,Virginia,"Repair Medulla Oblongata, Percutaneous Approach",132718,Female
+960,New York,"Insert of Intralum Dev into R Hand Art, Perc Endo Approach",128499,Male
+961,Florida,HDR Brachytherapy of Pineal Body using Palladium 103,108924,Female
+962,Texas,"Removal of Int Fix from R Carpal, Perc Endo Approach",74442,Female
+963,Rhode Island,"Bypass Sup Mesent Vein to Low Vein w Autol Art, Perc Endo",47732,Female
+964,California,Ultrasonography of Thoracic Spine,147697,
+965,Texas,"Extraction of Left Sphenoid Sinus, Percutaneous Approach",33502,Male
+966,Nevada,"Replace of L Subclav Vein with Synth Sub, Perc Endo Approach",107618,Male
+967,New York,"Bypass R Com Iliac Art to R Femor A w Synth Sub, Perc Endo",64982,Female
+968,New York,"Repair Bilateral Breast, Via Natural or Artificial Opening",139588,Female
+969,Washington,"Replacement of Sacrum with Autol Sub, Perc Endo Approach",129858,Female
+970,New Mexico,"Destruction of Left Internal Mammary Artery, Open Approach",122309,Male
+971,Florida,"Revision of Nonaut Sub in L Rib, Perc Endo Approach",80924,Male
+972,Florida,"Bypass Sigmoid Colon to Sigm Colon w Synth Sub, Open",75639,Female
+973,California,"Bypass Left Femoral Vein to Lower Vein, Open Approach",111542,Male
+974,Arizona,"Revision of Nonaut Sub in R Shoulder Jt, Perc Endo Approach",16228,Female
+975,Florida,"Destruction of Left Carpal Joint, Perc Endo Approach",60379,
+976,West Virginia,"Transfuse Nonaut Hemat Stem Cell in Periph Art, Perc",10868,Male
+977,Idaho,"Supplement R Thumb Phalanx w Synth Sub, Perc Endo",88356,Female
+978,Colorado,"Excision of Left External Auditory Canal, Via Opening",102576,Polygender
+979,Illinois,"Bypass Portal Vein to R Renal Vein w Autol Vn, Perc Endo",31391,Male
+980,New York,"Dilate R Ulnar Art, Bifurc, w Drug-elut Intra, Perc Endo",42222,Male
+981,Virginia,"Removal of Synth Sub from L Metatarsophal Jt, Perc Approach",95655,Male
+982,New York,Fluoroscopy of Left Knee,97508,Male
+983,Illinois,Fluoroscopy of Right Humerus,25417,Male
+984,Arizona,"Alteration of Right Knee Region, Perc Endo Approach",62923,Male
+985,North Carolina,"Insertion of Int Fix into R Tarsal Jt, Perc Approach",41075,Male
+986,Connecticut,"Destruction of Acoustic Nerve, Perc Endo Approach",98114,Bigender
+987,Florida,,111533,Male
+988,Louisiana,"Release Right Lower Arm and Wrist Muscle, External Approach",8255,Female
+989,North Carolina,"Destruction of Para-aortic Body, Open Approach",54361,Male
+990,Oklahoma,Nonimag Nucl Med Prob of Brain using Oth Radionuclide,39894,Female
+991,Colorado,"Fusion of Right Carpal Joint, Percutaneous Approach",,Male
+992,Virginia,"Dilation of Left Ulnar Artery, Perc Endo Approach",88120,
+993,District of Columbia,Beam Radiation of Testis using Neutron Capture,52878,Male
+994,Illinois,"Bypass Duodenum to Ileum with Synth Sub, Open Approach",27995,Female
+995,New York,"Drainage of R Sacroiliac Jt with Drain Dev, Open Approach",72299,Male
+996,Missouri,"Excision of Lumbosacral Joint, Percutaneous Approach, Diagn",97911,Male
+997,Texas,"Release Left Upper Arm Tendon, Open Approach",74153,Bigender
+998,Indiana,"Supplement L Palatine Bone w Synth Sub, Perc Endo",79307,Female
+999,North Carolina,"Replace of L Hand Vein with Nonaut Sub, Perc Endo Approach",45792,
+1000,Texas,Plain Radiography of Left Ribs,91214,Female
